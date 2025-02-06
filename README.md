@@ -1,11 +1,11 @@
-## 👋 Hello! Welcome to my Github profile and My name is André Moura. <img height="28" align="center" src="http://andresilvamoura.com/assets/Star-Wars-the-Mandalorian.png">
-
+## 👋 Hello! Welcome to my Github profile and My name is André Moura.
+###  <a href="https://www.andresilvamoura.com/">Visit andresilvamoura.com!</a>
 #### I am a Software Engineer with experience building websites, web applications, including Angular, JavaScript, TypeScript, HTML, CSS, Git/GitHub, j Query, Unit Test.  
 
 #
 
 <div align="center">
-  <a href="https://github.com/andresilvamoura">
+  <a url="https://github.com/andresilvamoura">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=andresilvamoura&show_icons=true&theme=radical&count_private=true"/><img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresilvamoura&layout=compact&&theme=radical"/>
 </div>  
    
